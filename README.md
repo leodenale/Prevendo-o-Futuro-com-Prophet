@@ -18,4 +18,4 @@ Prophet is a tool that has been built to address these issues and provides a pra
 
 [Artigo Original Medium (Parul Pandey)](https://medium.com/@parulnith/predicting-the-future-with-facebook-s-prophet-bdfe11af10ff)
 
-[![Binder](https://hub-binder.mybinder.ovh/user/leodenale-preve-uro-com-prophet-qcwg1vmm/notebooks/Prevendo%20Futuro%20com%20Prophet%20(Facebook).ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://hub-binder.mybinder.ovh/user/leodenale-preve-uro-com-prophet-qcwg1vmm/notebooks/Prevendo%20Futuro%20com%20Prophet%20(Facebook).ipynb)
