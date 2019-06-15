@@ -14,3 +14,5 @@ Photo by Tumisu on Canva.com
 [Artigo Original Medium (Parul Pandey)](https://medium.com/@parulnith/predicting-the-future-with-facebook-s-prophet-bdfe11af10ff)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://hub-binder.mybinder.ovh/user/leodenale-preve-uro-com-prophet-wfrwqsrk/notebooks/Prevendo-o-Futuro-com-Prophet.ipynb)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leodenale/Prevendo-o-Futuro-com-Prophet/master)
