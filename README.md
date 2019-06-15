@@ -1,20 +1,14 @@
-Este repositorio acompanha o artigo de Parul Pandey Medium.
-
-      Predicting the ‘Future’ with Facebook’s Prophet
-      Forecasting Medium’s statistics using Facebook’s Prophet Library
-      Go to the profile of Parul Pandey
-      Parul Pandey
-      https://towardsdatascience.com/predicting-the-future-with-facebook-s-prophet-bdfe11af10ff
+Este repositório é uma tradução livre do artigo no Medium de [Parul Pandey](https://medium.com/@parulnith/predicting-the-future-with-facebook-s-prophet-bdfe11af10ff)
 
 
 ## Prevendo o 'Futuro' com o Prophet (Facebook)
 
-![](https://github.com/parulnith/Predicting-the-Future-with-Facebook-s-Prophet/blob/master/image/image1.jpg)
-Photo by Justin Clark on Unsplash
+![](https://github.com/leodenale/Prevendo-o-Futuro-com-Prophet/blob/master/image/image1.jpg)
+Photo by Tumisu on Canva.com
 
-Forecasting is a technique that uses historical data as inputs to make informed estimates that are predictive in determining the direction of future trends. It is an important and common data science task in organisations today. Having prior knowledge of any event can help a company tremendously in the formulation of its goals, policies and planning. However, producing high-quality and reliable forecasts comes with challenges of its own. Forecasting is a complex phenomenon both for humans and for machines. It also requires very experienced time series analysts which as a matter of fact are quite rare.
+'Forecasting' (previsão) é uma técnica que usa dados históricos como entradas para fazer estimativas de tendências futuras. Atualmente é uma tarefa importante e comum em ciência de dados nas empresas. Ter conhecimento prévio de qualquer evento pode ajudar uma empresa na formulação de suas metas, políticas e planejamento. Porém existem vários desafios para se conseguir produzir previsões confiáveis e de alta qualidade. 'Forecasting' (previsão) é um fenômeno complexo tanto para seres humanos quanto para máquinas. Além disso também requer analistas de séries temporais muito experientes que, na verdade, são bastante raros.
 
-Prophet is a tool that has been built to address these issues and provides a practical approach to forecasting "at scale". It intends to automate the common features of business time series by providing simple and tunable methods. Prophet enables the analysts with a variety of backgrounds to make more forecasts than they can do manually.
+'Prophet' é uma ferramenta que foi desenvolvida pelo Facebook para resolver esses problemas e fornece uma abordagem prática para a previsão "em escala". Ele pretende automatizar os recursos comuns de séries temporais de negócios, fornecendo métodos simples e ajustáveis. 'Prophet' permite que os mais diversos analistas com diferentes conhecimentos/embasamentos sejam capazes de fazer mais previsões do que poderiam realizar manualmente.
 
 [Artigo Original Medium (Parul Pandey)](https://medium.com/@parulnith/predicting-the-future-with-facebook-s-prophet-bdfe11af10ff)
 
