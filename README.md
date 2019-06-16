@@ -16,5 +16,5 @@ Photo by Tumisu on Canva.com
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leodenale/Prevendo-o-Futuro-com-Prophet/master)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leodenale/Prevendo-o-Futuro-com-Prophet/master/Prevendo-o-Futuro-com-Prophet.ipynb#)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leodenale/Prevendo-o-Futuro-com-Prophet/master?filepath=Prevendo-o-Futuro-com-Prophet.ipynb)
 
