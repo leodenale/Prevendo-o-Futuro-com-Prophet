@@ -1,7 +1,7 @@
 Este repositório é uma tradução livre do artigo de [Parul Pandey](https://medium.com/@parulnith/predicting-the-future-with-facebook-s-prophet-bdfe11af10ff)
 
 
-## Prevendo o 'Futuro' com o Prophet (Facebook)
+## Prevendo o 'Futuro' com a ferramenta Prophet desenvolvida pelo Facebook
 
 ![](https://github.com/leodenale/Prevendo-o-Futuro-com-Prophet/blob/master/image/image1.jpg)
 
